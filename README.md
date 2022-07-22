@@ -8,6 +8,7 @@ Im MikeTheHash im a skilled programmer for 2 years,
         string[] scripting_lang_knowledge = {"Python", "Javascript", "Php"};
         string[] markup_lang_knowledge = {"HTML", "CSS"};
         string[] os_lang_knowledge = {"Bash", "Batch"};
+        string[] general_lang_knowledge = {"C#", "C", "Java", "Python", "Javascript", "Php", "HTML", "CSS", "Bash", "Batch"};
         public string say_hello(){
            string HelloVar = "Hello Everyone!";
            return HelloVar;
