@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-Im MikeTheHash im a skilled programmer for 2 years,
+Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years
 
     using System;
 
