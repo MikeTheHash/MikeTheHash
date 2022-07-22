@@ -18,5 +18,6 @@ Im MikeTheHash im a skilled programmer for 2 years,
         static void Main(){
            MikeTheHash Mike = new MikeTheHash();
            Mike.say_hello();
+           // Yeah guys i have serius problem ahahaha
         }
     }
