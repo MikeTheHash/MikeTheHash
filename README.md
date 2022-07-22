@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi everyone! 👋
+Im MikeTheHash im a skilled programmer for 2 years,
 
-<!--
-**MikeTheHash/MikeTheHash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    using System;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    class MikeTheHash{
+        string[] programming_lang_knowledge = {"C#", "C", "Java"};
+        string[] scripting_lang_knowledge = {"Python", "Javascript", "Php"};
+        string[] markup_lang_knowledge = {"HTML", "CSS"};
+        string[] os_lang_knowledge = {"Bash", "Batch"};
+        public string say_hello(){
+           string HelloVar = "Hello Everyone!";
+           return HelloVar;
+        }
+    }
+    
+    class Program{
+        static void Main(){
+           MikeTheHash Mike = new MikeTheHash;
+           Mike.say_hello();
+        }
+    }
