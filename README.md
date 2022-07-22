@@ -15,10 +15,10 @@ Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years
         }
     }
     
-    class Program{
-        static void Main(){
-           MikeTheHash Mike = new MikeTheHash();
-           Mike.say_hello();
-           // Yeah guys i have serius problem ahahaha
+   class Program{
+       static void Main(){
+          MikeTheHash Mike = new MikeTheHash();
+          Mike.say_hello();
+          // Yeah guys i have serius problem ahahaha
         }
     }
