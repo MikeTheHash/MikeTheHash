@@ -1,5 +1,11 @@
 ### Hi everyone! 👋
 Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years
+-Im currently learning Dart!
+-Ask me about Python!
+-Languages: C, C#, Java, Python, Javascript, Php, HTML, CSS, bash, batch
+
+Replit Profile:
+https://replit.com/@MikeTheHash?path=multiplayer
 
     using System;
 
