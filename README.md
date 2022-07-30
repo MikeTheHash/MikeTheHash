@@ -13,11 +13,11 @@ https://replit.com/@MikeTheHash?path=multiplayer
     using System;
 
     class MikeTheHash{
-        string[] programming_lang_knowledge = {"C#", "C", "Java"};
+        string[] programming_lang_knowledge = {"C#", "C", "Java", "Dart"};
         string[] scripting_lang_knowledge = {"Python", "Javascript", "Php"};
         string[] markup_lang_knowledge = {"HTML", "CSS"};
         string[] os_lang_knowledge = {"Bash", "Batch"};
-        string[] general_lang_knowledge = {"C#", "C", "Java", "Python", "Javascript", "Php", "HTML", "CSS", "Bash", "Batch"};
+        string[] general_lang_knowledge = {"C#", "C", "Java", "Dart", "Python", "Javascript", "Php", "HTML", "CSS", "Bash", "Batch"};
         public string say_hello(){
            string HelloVar = "Hello Everyone!";
            return HelloVar;
