@@ -1,11 +1,9 @@
 ### Hi everyone! 👋
 Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years
 
-Im currently learning Dart!
-
 Ask me about Python!
 
-Languages: C, C#, Java, Python, Javascript, Php, HTML, CSS, bash, batch
+Languages: C, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch
 
 I don't fix the fucking printers!
 
