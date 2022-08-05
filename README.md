@@ -2,7 +2,7 @@
 Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years, i use linux, and i deeply hate windows
 
 
-Brief representation of me:
+Basically, thats me:
 
 
 
@@ -18,6 +18,8 @@ Brief representation of me:
 (◔_◔) ︻┳テ=一 windows
 
 
+
+-------------------------------------------------------
 
 ~ Ask me about Python! 
 
