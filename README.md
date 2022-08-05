@@ -1,14 +1,13 @@
 ### Hi everyone! 👋
-Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years
+Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years, i use linux, and i deeply hate windows   一═┳┻︻▄ (◔_◔)
 
-Ask me about Python!
+~ Ask me about Python! 
 
-Languages: C, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch
+~ Languages: C, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch ツ
 
-I don't fix the fucking printers!
+~ I don't fix the fucking printers! 
 
-Replit Profile:
-https://replit.com/@MikeTheHash?path=multiplayer
+~ Searching for projects!
 
     using System;
 
