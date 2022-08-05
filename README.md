@@ -1,5 +1,23 @@
 ### Hi everyone! 👋
-Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years, i use linux, and i deeply hate windows   一═┳┻︻▄ (◔_◔)
+Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years, i use linux, and i deeply hate windows
+
+
+Brief representation of me:
+
+
+
+
+
+(っ^_^)っ Linux
+
+
+
+
+
+
+(◔_◔) ︻┳テ=一 windows
+
+
 
 ~ Ask me about Python! 
 
