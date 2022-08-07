@@ -27,7 +27,7 @@ Basically, thats me:
 
 ~ Discord Dev (Discord.py)
 
-~ Searching for projects!
+~ Searching for project!
 
 ~ I don't fix the fucking printers! 
 
