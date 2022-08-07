@@ -25,9 +25,11 @@ Basically, thats me:
 
 ~ Languages: C, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch ツ
 
-~ I don't fix the fucking printers! 
+~ Discord Dev (Discord.py)
 
 ~ Searching for projects!
+
+~ I don't fix the fucking printers! 
 
     using System;
 
