@@ -21,7 +21,7 @@ Basically, thats me:
 
 -------------------------------------------------------
 
-~ Python main language 
+~ Ask me about python!
 
 ~ Languages: C, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch ツ
 
