@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years, i use linux, and i deeply hate windows
+Im MikeTheHash im a skilled programmer & Ethical Hacker for 2 years, im a linux user, and i deeply hate windows
 
 
 Basically, thats me:
