@@ -25,6 +25,8 @@ Basically, thats me:
 
 ~ Languages: C, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch ツ
 
+~ Learning Assembly!
+
 ~ Discord Dev (Discord.py)
 
 ~ Searching for project!
