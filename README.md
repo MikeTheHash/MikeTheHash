@@ -56,4 +56,5 @@ Basically, thats me:
     }
 
 ![TryHackMe - Profile](https://tryhackme.com/p/MikeTheHash)
-![HackTheBox - Account](https://app.hackthebox.com/users/584106)
+
+![HackTheBox - Profile](https://app.hackthebox.com/users/584106)
