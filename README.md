@@ -54,3 +54,6 @@ Basically, thats me:
           // Yeah guys i have serius problem ahahaha
         }
     }
+
+![TryHackMe - Profile](https://tryhackme.com/p/MikeTheHash)
+![HackTheBox - Account](https://app.hackthebox.com/users/584106)
