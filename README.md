@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-Im MikeTheHash im a skilled programmer & Appassionated about Ethical Hacking for 3 years, im a linux user, and i deeply hate windows
+Im MikeTheHash a.k.a Haxabj, im a skilled programmer & Appassionated about Ethical Hacking for 3 years, im a linux user, and i deeply hate windows
 
 
 Basically, thats me:
@@ -58,3 +58,5 @@ Basically, thats me:
 ~ Check my profile on [TryHackMe](https://tryhackme.com/p/MikeTheHash)
 
 ~ Check my profile on [HackTheBox](https://app.hackthebox.com/users/584106)
+
+~ You can order discord bots on [Fiverr](https://www.fiverr.com/haxabj?public_mode=true)
