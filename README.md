@@ -33,6 +33,12 @@ Basically, thats me:
 
 ~ I don't fix the fucking printers! 
 
+~ Check my profile on [TryHackMe](https://tryhackme.com/p/MikeTheHash)
+
+~ Check my profile on [HackTheBox](https://app.hackthebox.com/users/584106)
+
+~ You can order discord bots on [Fiverr](https://www.fiverr.com/haxabj?public_mode=true)
+
     using System;
 
     class MikeTheHash{
@@ -54,9 +60,3 @@ Basically, thats me:
           // Yeah guys i have serius problem ahahaha
         }
     }
-
-~ Check my profile on [TryHackMe](https://tryhackme.com/p/MikeTheHash)
-
-~ Check my profile on [HackTheBox](https://app.hackthebox.com/users/584106)
-
-~ You can order discord bots on [Fiverr](https://www.fiverr.com/haxabj?public_mode=true)
