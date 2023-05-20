@@ -23,7 +23,7 @@ Basically, thats me:
 
 ~ Ask me about python!
 
-~ Languages: C, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch ツ
+~ Languages: C, C++, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch ツ
 
 ~ Learning Assembly!
 
