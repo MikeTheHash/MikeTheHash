@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-Im MikeTheHash a.k.a Haxabj, im a skilled programmer & Appassionated about Ethical Hacking for 3 years, im a linux user, and i deeply hate windows
+Im MikeTheHash a.k.a Haxabj, im a skilled programmer & ethical hacker for 3 years
 
 
 Basically, thats me:
