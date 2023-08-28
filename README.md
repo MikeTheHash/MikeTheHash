@@ -47,18 +47,17 @@ Basically, thats me:
         string[] markup_lang_knowledge = {"HTML", "CSS"};
         string[] os_lang_knowledge = {"Bash", "Batch"};
         string[] general_lang_knowledge = {"C#", "C", "Java", "Dart", "Python", "Javascript", "Php", "HTML", "CSS", "Bash", "Batch"};
+        string hiddenMsg = "$6$hiddenMessage$RL5Q0CuMk265nEiJ1uBsFUecitKZnXKEa9FJc1Flr.qcdZQUdPJ2HUIgdyevJGDo4fJmqxnTyvkcr4HuFuLY0.";
         public string say_hello(){
            string HelloVar = "Hello Everyone!";
            return HelloVar;
         }
     }
-    
-    class Program{
+
+    class Life{
        static void Main(){
           MikeTheHash Mike = new MikeTheHash();
           Mike.say_hello();
-          // Yeah guys i have serius problem ahahaha
+          // Yeah guys, I have serious problem ahahaha
         }
     }
-
-$6$hiddenMessage$RL5Q0CuMk265nEiJ1uBsFUecitKZnXKEa9FJc1Flr.qcdZQUdPJ2HUIgdyevJGDo4fJmqxnTyvkcr4HuFuLY0.
