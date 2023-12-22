@@ -1,25 +1,7 @@
 ### Hi everyone! 👋
 Im MikeTheHash a.k.a Haxabj, im a skilled programmer & ethical hacker for 3 years
 
-
-Basically, thats me:
-
-
-
-
-
-(っ^_^)っ Linux
-
-
-
-
-
-
-(◔_◔) ︻┳テ=一 windows
-
-
-
--------------------------------------------------------
+![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTheHash&exclude_repo)
 
 ~ Ask me about python!
 
