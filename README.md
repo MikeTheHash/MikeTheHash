@@ -1,6 +1,8 @@
 ### Hi everyone! 👋
 Im MikeTheHash a.k.a Haxabj, im a very skilled computer scientist for 3 years
+
 Well, actually Im very skilled but I don't know what level to define myself at so I'll let the numbers speak for me.
+
 Here my ![tryhackme.com](https://tryhackme.com/p/MikeTheHash) account, you can open it and see how much im skilled with the rank
 
 Here's some info about me: 
