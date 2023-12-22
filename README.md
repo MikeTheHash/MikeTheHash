@@ -37,5 +37,5 @@ Here's some info about me:
           // Yeah guys, I have serious problem ahahaha
         }
     }
-# I not gonna fix your fucking printer! 
+# And no, Im not gonna fix your fucking printer! 
 
