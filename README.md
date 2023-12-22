@@ -11,9 +11,9 @@ Here's some info about me:
 
 ~ Languages: C, C++, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch ツ
 
-~ Learning Assembly!
+~ Learning Assembly and some things about machine learning!
 
-~ Programmer, Ethical Hacker, Discord Dev (Discord.py)
+~ Programmer, Ethical Hacker, Discord Dev
 
 ~ Check my profile on [TryHackMe](https://tryhackme.com/p/MikeTheHash), [HackTheBox](https://app.hackthebox.com/users/584106), [Fiverr](https://www.fiverr.com/haxabj?public_mode=true)
 
