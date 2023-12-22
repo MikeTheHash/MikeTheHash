@@ -3,6 +3,7 @@ Im MikeTheHash a.k.a Haxabj, im a very skilled computer scientist for 3 years
 Well, actually Im very skilled but I don't know what level to define myself at so I'll let the numbers speak for me.
 Here my ![tryhackme.com](https://tryhackme.com/p/MikeTheHash) account, you can open it and see how much im skilled with the rank
 
+Here's some info about me:
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTheHash&exclude_repo)
 
 ~ Languages: C, C++, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch ツ
@@ -11,9 +12,7 @@ Here my ![tryhackme.com](https://tryhackme.com/p/MikeTheHash) account, you can o
 
 ~ Programmer, Ethical Hacker, Discord Dev (Discord.py)
 
-~ Check my profile on [TryHackMe](https://tryhackme.com/p/MikeTheHash), [HackTheBox](https://app.hackthebox.com/users/584106)
-
-~ You can order discord bots on [Fiverr](https://www.fiverr.com/haxabj?public_mode=true)
+~ Check my profile on [TryHackMe](https://tryhackme.com/p/MikeTheHash), [HackTheBox](https://app.hackthebox.com/users/584106), [Fiverr](https://www.fiverr.com/haxabj?public_mode=true)
 
     using System;
 
