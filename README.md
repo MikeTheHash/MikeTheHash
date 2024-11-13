@@ -1,43 +1,20 @@
-### Hi everyone! 👋
-Im MikeTheHash a.k.a Haxabj, im a very skilled computer scientist for 3 years
+# Hi everyone! Im MikeTheHash
+im a self taught in cybersecurity and in general computer science
 
-Well, actually Im very skilled but I don't know what level to define myself at so I'll let the numbers speak for me.
+My favourite languages are C++ and Python, but i also know C, some C# and some java
+I know also HTML, Javascript and CSS, some Java and some PHP
+i also know some assembly 
 
-Here my ![tryhackme.com](https://tryhackme.com/p/MikeTheHash) account, you can open it and see how much im skilled with by the rank
+![MikeTheHash's Stats](https://github-readme-stats.vercel.app/api?username=MikeTheHash&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-Here's some info about me: 
+![MikeTheHash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTheHash&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTheHash&exclude_repo)
+![MikeTheHash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeTheHash&theme=tokyonight&hide_border=true)
 
-~ Languages: C, C++, C#, Java, Python, Dart, Javascript, Php, HTML, CSS, bash, batch ツ
+If you want you can check my profiles on 
 
-~ Learning Assembly and some things about machine learning!
+[TryHackMe](https://tryhackme.com/p/MikeTheHash)
 
-~ Programmer, Ethical Hacker, Discord Dev
+[HackTheBox](https://app.hackthebox.com/users/584106)
 
-~ Check my profile on [TryHackMe](https://tryhackme.com/p/MikeTheHash), [HackTheBox](https://app.hackthebox.com/users/584106), [Fiverr](https://www.fiverr.com/haxabj?public_mode=true)
-
-    using System;
-
-    class MikeTheHash{
-        string[] programming_lang_knowledge = {"C#", "C", "Java", "Dart"};
-        string[] scripting_lang_knowledge = {"Python", "Javascript", "Php"};
-        string[] markup_lang_knowledge = {"HTML", "CSS"};
-        string[] os_lang_knowledge = {"Bash", "Batch"};
-        string[] general_lang_knowledge = {"C#", "C", "Java", "Dart", "Python", "Javascript", "Php", "HTML", "CSS", "Bash", "Batch"};
-        string hiddenMsg = "$6$hiddenMessage$RL5Q0CuMk265nEiJ1uBsFUecitKZnXKEa9FJc1Flr.qcdZQUdPJ2HUIgdyevJGDo4fJmqxnTyvkcr4HuFuLY0.";
-        public string say_hello(){
-           string HelloVar = "Hello Everyone!";
-           return HelloVar;
-        }
-    }
-
-    class Life{
-       static void Main(){
-          MikeTheHash Mike = new MikeTheHash();
-          Mike.say_hello();
-          // Yeah guys, I have serious problem ahahaha
-        }
-    }
-# And no, Im not gonna fix your fucking printer! 
-
+[Intigriti]()
