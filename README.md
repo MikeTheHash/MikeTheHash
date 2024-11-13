@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone! Im MikeTheHash<br>im a self taught in cybersecurity and in general computer science<br><br>My favourite languages are C++ and Python, but i also know C, some C# and some java<br>I know also HTML, Javascript and CSS, some Java and some PHP<br>i also know some assembly 
+Hi everyone! Im MikeTheHash<br>im a self taught in cybersecurity and programming for 4 years!<br><br>My favourite languages are C++ and Python, but i also know C, some C# and some java<br>I know also HTML, Javascript and CSS, some Java and some PHP<br>i also know some assembly 
 
 
 ## 🌐 Socials:
