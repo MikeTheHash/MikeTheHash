@@ -5,7 +5,7 @@
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mike._hash) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mikethehash) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mikethehash) 
 
-## 🌐 Other profiles
+## 🌐 Other profiles:
 [Intigriti](https://app.intigriti.com/profile/mikethehash) |
 [TryHackMe](https://tryhackme.com/r/p/MikeTheHash) |
 [HackTheBox](https://app.hackthebox.com/users/584106)
