@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone! Im MikeTheHash a.k.a Haxabj<br>im a self taught in cybersecurity and programming for 4 years!<br><br>My favourite languages are C++ and Python
+🔭 Hi everyone! Im MikeTheHash a.k.a Haxabj<br>💻 im a self taught in cybersecurity and programming for 4 years!<br><br>🖤 My favourite languages are C++ and Python
 
 
 ## 🌐 Socials:
