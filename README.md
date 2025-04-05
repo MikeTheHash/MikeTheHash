@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi everyone! Im MikeTheHash a.k.a Haxabj<br>💻 Im a self taught in cybersecurity and programming for 4 years!<br>🖤 My favourite languages are C++ and Python<br>✌️ My biggest flex? I can understand assembly (like not everything but enough)
+🔭 Hi everyone! Im MikeTheHash a.k.a Haxabj<br>💻 Im a self taught in cybersecurity and programming for 5 years!<br>🖤 My favourite language is Golang<br>✌️ My biggest flex? I can understand assembly (like not everything but enough)
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mike._hash) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mikethehash) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mikethehash) 
