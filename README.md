@@ -1,5 +1,5 @@
 # 0x01 | 💫 Whoami:
-🔭 | Hi everyone! Im MikeTheHash a.k.a Haxabj<br>💻 | Im a self taught in cybersecurity and programming for 5 years!<br>🖤 | My favourite language is Golang<br>✌️ | My biggest flex? I can understand assembly (like not everything but enough)
+🔭 | Hi everyone! Im MikeTheHash a.k.a Haxabj<br>💻 | Im a self taught in cybersecurity and programming for 5 years!<br>💫 | Exploit developer wannabe<br>🌒 | Currently learning bug bounty<br>🖤 | My favourite language is Golang<br>⚙️ | lvl. 16
 
 ### 🌐 Socials: 
 [Medium](https://medium.com/@mikethehash) | 
